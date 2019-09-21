@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "644321164046",
+    "firebase_url": "https://edutest-45f97.firebaseio.com",
+    "project_id": "edutest-45f97",
+    "storage_bucket": "edutest-45f97.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:644321164046:android:a04812075a8d5f689d355f",
+        "android_client_info": {
+          "package_name": "com.example.edutest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "644321164046-esdi74pue4p3caeglvd30itud7gt4v8t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.edutest",
+            "certificate_hash": "d932462a14dd885f2d99dad69ea448968ebddf53"
+          }
+        },
+        {
+          "client_id": "644321164046-87ambv2ndpq530ueiocjlccn3iic3dfl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJHhHrPaIFqNOv3ZFaO0egW8UaxO5ARLM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "644321164046-87ambv2ndpq530ueiocjlccn3iic3dfl.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
